@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "860351194755",
+    "project_id": "projeto-diario-pjd",
+    "storage_bucket": "projeto-diario-pjd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860351194755:android:43ffbe46dea8d1d2209db6",
+        "android_client_info": {
+          "package_name": "com.example.projeto_diario"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpFwmS7TBK6CFtgIJB_QaIHn5_JpeqwOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,5 +1,3 @@
-
-
 import 'package:flutter/material.dart';
 import 'package:projeto_diario/data/projeto_dao.dart';
 import 'package:projeto_diario/screens/tela_calendario.dart';
